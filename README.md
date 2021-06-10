@@ -1,22 +1,19 @@
-# Library Example Bootstrap
+# Bootstrap Framework Library Example
 
-Learning how to navigate through Bootstrap Framework and Implementing small libraries.
+Learning how to navigate through Bootstrap Framework and Implementing small libraries to help style website and positioning.
+- Examples of different components not a website.
 
 ## Bootstrap Website Resources:
 
 - Home: https://getbootstrap.com/
 
-- Docs Components Alerts: https://getbootstrap.com/docs/5.0/components/alerts/
+- Components Alerts: https://getbootstrap.com/docs/5.0/components/alerts/
 
+- Layout Grid: https://getbootstrap.com/docs/5.0/layout/grid/
 
+## Learned about the meaning of Semantic Versioning 
 
-
-
-
-
-## Learned about the meaning of Semantic Versioning.  
-
-Summary: Given a version number MAJOR.MINOR.PATCH, increment the:
+Summary: Given a version number Ex: 2.1.0 = MAJOR.MINOR.PATCH, increment the:
 
     - MAJOR version when you make incompatible API changes,
     - MINOR version when you add functionality in a backwards compatible manner, and
